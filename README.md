@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-in-R
+# Learn Statistical Models in R
 
 Dataset: Passenger car mileage
 -  We consider the 04cars dataset (See description online)
